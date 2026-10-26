@@ -26,6 +26,7 @@ An older exam guide may not describe the current assessment, so treat official S
 A study guide works best when it breaks a broad objective into things you can actually do. Rather than rereading every topic, work out what you need to learn, practice applying it, and check whether you can explain the reasoning behind it.
 
 1. **Map the official learning objectives**
+
 Start with the published objectives and build a checklist from them. Sort each topic into one of three groups:
 
 •	Familiar: you understand it and can explain it without your notes.
@@ -37,11 +38,13 @@ Start with the published objectives and build a checklist from them. Sort each t
 This sorting lets you spend time where you need it instead of giving every topic equal weight. If you know what SAP Activate is for but cannot explain how its activities support implementation decisions, work through practical examples and the relevant official learning materials.
 
 2. **Build understanding before attempting practice questions**
+
 Practice questions show you where your knowledge has gaps, but they cannot stand in for learning the concepts. Study the material first, summarize the main ideas in your own words, and note how each one supports an implementation objective.
 
 Then try questions that test your understanding. When you get one wrong, go back to the related objective and work out why: missing knowledge, a misread scenario, or an overlooked requirement. Each mistake then tells you what to fix.
 
 3. **Connect concepts with implementation scenarios**
+
 SAP implementation work depends on business needs, project conditions, and what the system can do. As you study each concept, ask yourself:
 
 •	What implementation problem does it address?
@@ -57,14 +60,17 @@ SAP implementation work depends on business needs, project conditions, and what 
 These questions build the analytical habit you need for unfamiliar scenarios.
 
 4. **Keep a revision record**
+
 Write down the topics you find hard, the questions you got wrong, and the concepts that need another pass. For each entry, note the topic, why you made the mistake, the correct explanation, and what you will do next.
 
 If you confuse two implementation activities, write down what each one is for and how they differ, then revisit that comparison in your next session. Over time, the record becomes a study resource built from your own results.
 
 ## Key Areas To Review
+
 Your scope should follow the current official objectives. The areas below give you a way to organize your learning where those objectives cover them.
 
 ### SAP Activate methodology and implementation lifecycle
+
 Understand what the methodology is for and why an organized approach helps an implementation project. Instead of memorizing isolated terms, think about how planning, system preparation, business process validation, testing, and deployment-related activities each contribute to project readiness.
 
 The activities are connected. A decision made early can affect later work, especially when requirements, system readiness, or validation results change.
@@ -90,6 +96,7 @@ Deployment preparation means judging whether the solution and the organization a
 Think through what happens if a team moves ahead with critical problems unresolved. The decision to proceed should rest on relevant evidence, agreed criteria, and the responsibilities assigned to the team.
 
 ## A Two-Week Preparation Plan
+
 Adjust this plan to your experience, your available time, and the current official objectives.
 
 ### Week 1: Build the foundation
@@ -104,6 +111,7 @@ Adjust this plan to your experience, your available time, and the current offici
 •	Mark which topics are familiar and which are not.
 
 **Days 3 to 4: Study methodology concepts**
+
 •	Review SAP Activate and its role in implementation.
 
 •	Summarize the relevant concepts in your own words.
@@ -113,6 +121,7 @@ Adjust this plan to your experience, your available time, and the current offici
 •	Write short revision notes.
 
 **Days 5 to 6: Work through implementation scenarios**
+
 •	Study the relevant preparation activities.
 
 •	Review business requirements and process alignment.
@@ -122,6 +131,7 @@ Adjust this plan to your experience, your available time, and the current offici
 •	Note anything unclear for further review.
 
 **Day 7: Review the week**
+
 •	Go back over your notes before checking the answers.
 
 •	Do a short practice session.
@@ -131,6 +141,7 @@ Adjust this plan to your experience, your available time, and the current offici
 •	Update your checklist.
 
 ### Week 2: Apply what you know and improve accuracy
+
 **Days 8 to 9**: Weaker objectives: Return to the subjects that gave you the most trouble in Week 1. Use official learning resources to firm up your understanding before you attempt more questions.
 
 **Days 10 to 11**: Implementation reasoning: Work through scenarios on process requirements, implementation activities, validation, or project readiness, as far as the syllabus covers them. For each answer, explain why the chosen approach fits and why the alternatives fit less well.
