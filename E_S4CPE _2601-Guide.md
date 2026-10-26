@@ -18,6 +18,7 @@ Knowing the phase names is only the start. You should be able to explain how imp
 Suppose a workshop shows that a business process does not match what the organization currently requires. What the team should do depends on the project context, the standard functionality available, and the decision-making process the team has agreed on. Questions of this kind are why practical reasoning matters alongside concept knowledge.
 
 **Confirm the current certification requirements**
+
 Requirements, assessment formats, and [learning journey](https://learning.sap.com/learning-journeys/implementing-sap-s-4hana-cloud-private-edition-1) objectives change over time. Check the official SAP certification page before you rely on older notes or third-party descriptions, and look at the published exam objectives, the recommended preparation materials, and any instructions for the version you plan to take.
 
 An older exam guide may not describe the current assessment, so treat official SAP information as the final word on certification details.
