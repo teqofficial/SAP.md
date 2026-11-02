@@ -78,6 +78,7 @@ SAP states that completing the whole journey isn't mandatory before taking a pra
 
 ## A Six-Week Study Plan
 Here is a schedule that follows the structure above.
+
 •	**Weeks 1 and 2**: Work through THR80 and the first practical exercise. Write short notes on permissions, MDF, and picklists in your own words.
 
 •	**Week 3**: Start THR83. Focus on implementation planning, instance preparation, and recruiting admin setup, and sketch how setup choices affect later workflows.
