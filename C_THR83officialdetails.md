@@ -5,14 +5,23 @@ This guide collects what SAP currently publishes about the SAP SuccessFactors Re
 
 ## C_THR83 Exam Official Details At A Glance
 These details come from SAP's listing for the current exam version, C_THR83_2605.
+
 •	Certification name: SAP Certified - SAP SuccessFactors Recruiting: Recruiter Experience
+
 •	Exam code: C_THR83 (current version label: C_THR83_2605)
+
 •	Format: One activity, scenario-based assessment
+
 •	Duration: 120 minutes
+
 •	Cut score: 60%
+
 •	Intended role: Consultant
+
 •	Learning journey: Configuring SAP SuccessFactors Recruiting: Recruiter Experience (intermediate level)
+
 •	Journey content: 2 courses and 2 practical exercises
+
 •	Validity: 12 months, extendable by passing the required assessment
 
 The code and the version are different things. "C_THR83" is the certification family, and the suffix (such as 2605) identifies the exam release. That's why older pages mention labels like 2311 or 2505 and quote different numbers.
@@ -32,6 +41,7 @@ SAP describes its practical certification exams as open-book and non-proctored. 
 That sounds generous, but with 120 minutes on the clock, you won't have time to read documentation from scratch. People who do well already know where answers live and can find them in seconds. Two habits help:
 
 •	Bookmark the SAP Help pages you use most while studying.
+
 •	Practice answering scenario prompts out loud so your reasoning is clear when it counts.
 
 ### Delivery options and language
@@ -57,8 +67,11 @@ Proxy management, company system settings, and platform feature settings take li
 SAP pairs the certification with a [learning journey](https://learning.sap.com/learning-journeys/configure-sap-successfactors-recruiting-recruiter-experience) called Configuring SAP SuccessFactors Recruiting: Recruiter Experience. It has four items:
 
 1.	THR80: SAP SuccessFactors Platform Introduction Academy. It covers the platform foundation, and SAP lists roughly 8 hours and 43 minutes of content.
+  
 2.	Practical exercise one. Hands-on practice for the platform academy, in a practice system you unlock by registering.
+   
 3.	THR83: SAP SuccessFactors Recruiting: Recruiter Experience Academy. This is the core recruiting course, listed at roughly 16 hours and 54 minutes.
+   
 4.	Practical exercise two. A recruiting-focused practice system for applying what you learned.
 
 SAP states that completing the whole journey isn't mandatory before taking a practical exam, but it strongly recommends it. In my view, skipping the hands-on exercises is the shortcut that most often backfires, because scenario questions test applied judgment more than recall.
@@ -66,19 +79,28 @@ SAP states that completing the whole journey isn't mandatory before taking a pra
 ## A Six-Week Study Plan
 Here is a schedule that follows the structure above.
 •	**Weeks 1 and 2**: Work through THR80 and the first practical exercise. Write short notes on permissions, MDF, and picklists in your own words.
+
 •	**Week 3**: Start THR83. Focus on implementation planning, instance preparation, and recruiting admin setup, and sketch how setup choices affect later workflows.
+
 •	**Week 4**: Spend the whole week on job requisitions and the data model. Reproduce configurations in the practice system instead of only reading about them.
+
 •	**Week 5**: Cover candidate profiles, then revisit weak spots from earlier weeks.
+
 •	**Week 6**: Run timed scenario drills. Do at least one full 120-minute rehearsal so pacing isn't a surprise.
+
 If you already work in SuccessFactors, you can compress this. If you're new to the platform, give the early weeks more room.
 
 ## Registration and Scheduling Basics
 Account problems can derail the process at the last minute, so a typical path looks like this:
 
 1.	Create an SAP Universal ID, which certification activities require.
+   
 2.	Choose an access route. SAP offers options ranging from a single attempt to multi-attempt bundles and SAP Learning Hub subscriptions.
+   
 3.	Start from the certification page or from the learning journey once you have a valid attempt.
+   
 4.	Make sure the SAP user you test with matches the one tied to your subscription, so results and attempts are tracked properly.
+   
 5.	After passing, find your digital credential through Credly and your record under My Certifications.
 
 Sort out the account side before your final revision week.
@@ -92,8 +114,11 @@ Validity runs on a 12-month cycle, and passing the required assessment extends i
 ## Common Mistakes
 
 •	Trusting outdated pages. Question counts, passing scores, and durations from earlier versions don't apply to the current format.
+
 •	Assuming open-book is easy. Knowing where information is doesn't help if finding it takes five minutes.
+
 •	Skipping hands-on practice. Reading configuration steps isn't the same as performing them.
+
 •	Ignoring provisioning rights. SAP treats certification and provisioning rights separately. Provisioning rights go only to registered SAP partner consultants, so customers and independent consultants shouldn't assume certification unlocks system access.
 
 ## Conclusion
